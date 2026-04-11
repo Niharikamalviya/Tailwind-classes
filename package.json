@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
+    "postcss": "^8.5.9",
+    "tailwindcss": "^4.2.2",
+    "vite": "^8.0.8"
+  },
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niharikamalviya/Tailwind-classes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niharikamalviya/Tailwind-classes/issues"
+  },
+  "homepage": "https://github.com/Niharikamalviya/Tailwind-classes#readme"
+}
